@@ -1,0 +1,101 @@
+/*header*/
+.head {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-left: 97.9px;
+	margin-top: 20.5px;
+}
+.satauri {
+	margin-left: 31px;
+	font-size: 24px;
+}
+.logo {
+	margin-right: 98px;
+}
+.logo1 {
+	margin-left: 155.6px;
+}
+.xazi::after {
+	display: inline-block;
+	content: " ";
+	width: 2px;
+	height: 26.67px;
+	background-color: #363E97;
+	margin-left: 30px;
+}
+/*pirveli section*/
+.section {
+	margin-top: 20px;
+	width: 1880px;
+	height: 520px;
+	background-color: #E6E6E6;
+}
+.box1 {
+	position: relative;
+	width: 1170px;
+	margin: 0 auto;
+	padding-top: 30px;
+}
+.text {
+	display: flex;
+	justify-content: space-between;
+	position: absolute;
+	bottom: 20px;
+	left: 30px;
+	width: 1140px;
+	font-size: 30px;
+	color: white;
+}
+.htlogo{
+	padding-right: 30px;
+	padding-top: 80px;
+}
+/*meore section*/
+.section2{
+	position: relative;
+	display: flex;
+	justify-content: space-between;
+	width: 1880px;
+	height: 520px;
+	background-color: #363E97;
+}
+.yuti{
+	display: flex;
+	justify-content: space-between;
+	width: 1170px;
+	height: 320px;
+	margin: 0 auto;
+	margin-top: 89.8px;
+}
+.yuti1{
+	width: 570px;
+	height: 320px;
+	background-color: white;
+}
+.texti{
+	text-align: center;
+	margin-top: 157px;
+}
+.satauri2{
+	position: absolute;
+	left: 350px;
+	top: 30px;
+	color: white;
+	font-size: 24px;
+}
+.satauri2::after {
+	display: inline-block;
+	content: " ";
+	width: 2px;
+	height: 20px;
+	background-color: white;
+	margin-left: 10px;
+}
+.satauri3{
+	position: absolute;
+	left: 470px;
+	top: 30px;
+	color: white;
+	font-size: 18px;
+}
