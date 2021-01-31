@@ -27,7 +27,7 @@
 /*pirveli section*/
 .section {
 	margin-top: 20px;
-	width: 1880px;
+	width: 1865px;
 	height: 520px;
 	background-color: #E6E6E6;
 }
@@ -56,8 +56,8 @@
 	position: relative;
 	display: flex;
 	justify-content: space-between;
-	width: 1880px;
-	height: 520px;
+	width: 1865px;
+	height: 499.33px;
 	background-color: #363E97;
 }
 .yuti{
@@ -98,4 +98,83 @@
 	top: 30px;
 	color: white;
 	font-size: 18px;
+}
+/*mesame section*/
+.section3{
+	position: relative;
+	width: 1865px;
+	height: 450px;
+	background-color: #BDCCD4;
+	padding-top: 90.2px;
+}
+.suratebi{
+	display: flex;
+	justify-content: space-between;
+	width: 1172px;
+	height: 210px;
+	margin: 0 auto;
+}
+.divebi{
+	display: flex;
+	justify-content: space-between;
+	width: 1170px;
+	height: 60px;
+	margin-left: 348px;
+}
+.divi1{
+	width: 270px;
+	height: 60px;
+	background-color: #E6E6E6;
+	font-size: 20px;
+}
+.text1{
+	text-align: center;
+	margin-top: 13.7px;
+}
+.satauri4{
+	position: absolute;
+	left: 350px;
+	top: 30px;
+	color: blue;
+	font-size: 24px;
+}
+.satauri4::after {
+	display: inline-block;
+	content: " ";
+	width: 2px;
+	height: 20px;
+	background-color: blue;
+	margin-left: 10px;
+}
+.para4{
+	position: absolute;
+	left: 470px;
+	top: 30px;
+	color: blue;
+	font-size: 18px;
+
+}
+/*meotxe section*/
+.section4{
+	width: 1865px;
+	height: 345.46px;
+	background-color:#E6E6E6;
+}
+.zero{
+	padding-top: 90px;
+	margin: 0 auto;
+	display: flex;
+	justify-content: space-between;
+	width: 1172px;
+	height: 225px;
+}
+.pirveli{
+	width: 570px;
+	height: 225px;
+	background-color: #F2F2F2;
+}
+.meore{
+	width: 570px;
+	height: 225px;
+	background-color: #F2F2F2;
 }
