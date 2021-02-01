@@ -212,3 +212,68 @@
 	display: flex;
 	justify-content: space-between;
 }
+/*news*/
+.news {
+	position: relative;
+	display: flex;
+	justify-content: space-between;
+	margin-top: 33.3px;
+	width: 1865px;
+	background-color: #BDCCD4;
+	height: 90px;
+}
+.news1 {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 28.5px;
+	margin-left: 100px;
+	width: 100px;
+	height: 29px;
+	font-size: 22px;
+	color: blue;
+}
+.news2{
+	margin-top: 28.5px;
+	margin-right: 92.5px;
+	width: 80px;
+	height: 30px;
+	font-size: 22px;
+	text-decoration: underline;
+	color: white;
+}
+.row{
+	padding-left: 2px;
+	width: 30px;
+}
+.lab{
+	position: absolute;
+	top: 30px;
+	left: 200px;
+	color: white;
+	font-size: 22px;
+}
+/*date*/
+.charcho{
+	margin-top: 30px;
+	margin-left: 97px;
+}
+.p18{
+	position: absolute;
+	color: blue;
+	top: 250px;
+	left: 120px;
+	font-size: 22px;
+}
+.march{
+	margin-left: 97px;
+	color: blue;
+	font-size: 22px;
+}
+.news3{
+	background-color: #E6E6E6;
+	margin-top: 18.2px;
+	margin-left: 99px;
+	height: 746px;
+	width: 1166.29px;
+}
+
