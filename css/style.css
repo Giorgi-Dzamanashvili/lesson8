@@ -169,12 +169,39 @@
 	height: 225px;
 }
 .pirveli{
+	position: relative;
 	width: 570px;
 	height: 225px;
 	background-color: #F2F2F2;
 }
 .meore{
+	position: relative;
 	width: 570px;
 	height: 225px;
 	background-color: #F2F2F2;
 }
+.sataurebi{
+	font-size: 22px;
+	display: block;
+	margin-left: 20.8px;
+	margin-top: 11.1px;
+}
+.txtsrt{
+	display: flex;
+	justify-content: space-between;
+	width: 534px;
+	height: 150px;
+	padding-left: 30px;	
+}
+.para1{
+	width: 355px;
+	margin-top: 35px;
+	font-size: 20px;
+}
+.rm{
+	position: absolute;
+	bottom: 2px;
+	right: 2px;
+	color: blue;
+}
+
