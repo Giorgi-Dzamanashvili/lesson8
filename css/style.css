@@ -204,4 +204,11 @@
 	right: 2px;
 	color: blue;
 }
-
+.awe{
+	font-size: 30px;
+	color: blue;
+}
+.footer{
+	display: flex;
+	justify-content: space-between;
+}
