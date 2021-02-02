@@ -156,12 +156,13 @@
 }
 /*meotxe section*/
 .section4{
+	position: relative;
 	width: 1865px;
 	height: 345.46px;
 	background-color:#E6E6E6;
 }
 .zero{
-	padding-top: 90px;
+	padding-top: 50px;
 	margin: 0 auto;
 	display: flex;
 	justify-content: space-between;
@@ -207,6 +208,27 @@
 .awe{
 	font-size: 30px;
 	color: blue;
+}
+.feature{
+	color: black;
+	font-size: 22px;
+	margin-left: 350px;
+	padding-top: 28px;
+}
+.feature::after{
+	display: inline-block;
+	content: " ";
+	width: 2px;
+	height: 20px;
+	background-color: black;
+	margin-left: 10px;
+}
+.para5{
+	position: absolute;
+	font-size: 20px;
+	color: black;
+	margin-left: 500px;
+	top: 30px;
 }
 .footer{
 	display: flex;
@@ -270,10 +292,137 @@
 	font-size: 22px;
 }
 .news3{
-	background-color: #E6E6E6;
 	margin-top: 18.2px;
 	margin-left: 99px;
 	height: 746px;
 	width: 1166.29px;
+}
+.typo{
+	float: left;
+}
+.lorema{
+	float: left;
+	width: 756px;
+	margin-left:40px;
+	font-size: 20px;
+}
+.lorema1{
+	margin-top: 22px;
+	float: left;
+	width: 756px;
+	margin-left:40px;
+	font-size: 20px;
+	padding-bottom: 22px;
+}
+.chveulebrivi{
+	font-size: 20px;
+	padding-bottom: 22px;
+}
+.gb{
+	margin-left: 99px;
+	margin-top: 25.2px;
+	color: white;
+	text-decoration: underline;
+	font-size: 22px;
+	padding-right: 1500px;
+}
+.logos{
+	height: 20px;
+	margin-top: 22px;
+}
+/*about*/
+body{
+	position: relative;
+}
+.about{
+	margin-top: 33.3px;
+	width: 1865px;
+	background-color: #EE4036;
+	height: 90px;
+}
+.h-about{
+	font-size: 22px;
+	color: white;
+	margin-left: 105.8px;
+	padding-top: 30px;
+}
+.isari{
+	margin-left: 100px;
+	float: left;
+	width: 300px;
+	height: 300px;
+	border-style:solid;
+    border-width:2px;  
+    border-color:red;
+    margin-top: 110px;
+}
+.computer{
+	margin-left: 86px;
+	margin-top: 60px;
+	float: left;
+	width: 400px;
+	height: 400px;
+	border-style:solid;
+    border-width:2px;  
+    border-color:red;
+}
+.raketa{
+	margin-left: 85px;
+	margin-top: 110px;
+	float: left;
+	width: 300px;
+	height: 300px;
+	border-style:solid;
+    border-width:2px;  
+    border-color:red;
+}
+.center{
+	padding-left: 47.9px;
+	padding-top: 38.4px;
+}
+.center1{
+	padding-top: 104.8px;
+	padding-left: 70px;
+}
+.abbout{
+	position: absolute;
+	display: inline-block;
+	padding-top: 420px;
+	left: 100px;
+	font-size: 20px;
+	color: #58595B;
+}
+.abbout1{
+	position: absolute;
+	display: inline-block;
+	padding-top: 470px;
+	left: 483px;
+	font-size: 20px;
+	color: #58595B;
+}
+.abbout2{
+	position: absolute;
+	display: inline-block;
+	padding-top: 420px;
+	left: 969px;
+	font-size: 20px;
+	color: #58595B;
+}
+.xazi1{
+	position: absolute;
+	width: 1865px;
+	height: 2px;
+	background-color: red;
+	top: 750px;
+}
+.xalxi{
+	padding-right: 230px;
+	padding-left: 90px;
+	display: flex;
+	justify-content: space-between;
+	width: 1366px;
+	height: 391px;
+	background-color: grey;
+	margin-top: 569px;
 }
 
