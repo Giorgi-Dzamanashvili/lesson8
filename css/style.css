@@ -282,7 +282,7 @@
 .p18{
 	position: absolute;
 	color: blue;
-	top: 250px;
+	top: 220px;
 	left: 120px;
 	font-size: 22px;
 }
@@ -416,13 +416,30 @@ body{
 	top: 750px;
 }
 .xalxi{
+	position: relative;
 	padding-right: 230px;
 	padding-left: 90px;
 	display: flex;
 	justify-content: space-between;
 	width: 1366px;
 	height: 391px;
-	background-color: grey;
 	margin-top: 569px;
 }
-
+.surname{
+	position: absolute;
+	width: 1137px;
+	height: 44px;
+	color: black;
+	display: flex;
+	justify-content: space-between;
+	font-size: 22px;
+	top: 170px;
+	left: 130px;
+}
+.team{
+	position: absolute;
+	top: 30px;
+	left: 100px;
+	font-size: 22px;
+	color: red;
+}
